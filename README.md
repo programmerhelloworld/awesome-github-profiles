@@ -1,52 +1,19 @@
-# Awesome GitHub profiles
+<h1 align="center">Hi 👋, I'm Francesco Maresca</h1>
+<h3 align="center">A passionate frontend developer</h3>
 
-![.github/workflows/main.yml](https://github.com/EddieJaoudeCommunity/awesome-github-profiles/workflows/.github/workflows/main.yml/badge.svg)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=programmerhelloworld&label=Profile%20views&color=0e75b6&style=flat" alt="programmerhelloworld" /> </p>
 
-List of GitHub profiles that have awesome customization, that you can use for inspiration.\
-Feel free to submit a [pull request](https://github.com/EddieHubCommunity/awesome-github-profiles/pulls) with your suggestions for awesome GitHub profiles.
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=programmerhelloworld" alt="programmerhelloworld" /></a> </p>
 
-<p align="center">
-  <a href="https://github.com/EddieHubCommunity" target="_blank" rel="noopener noreferrer">
-    <img src="https://forthebadge.com/images/badges/built-with-love.svg" alt="built with love badge" />
- </a>
-  <a href="https://github.com/EddieHubCommunity" target="_blank" rel="noopener noreferrer">
-    <img src="https://forthebadge.com/images/badges/made-with-markdown.svg" alt="made with markdown badge" />
- </a>
-  <a href="https://github.com/EddieHubCommunity" target="_blank" rel="noopener noreferrer">
-    <img src="https://forthebadge.com/images/badges/open-source.svg" alt="open source badge" />
- </a>
- <br />
- <a href="https://eddiehubcommunity.github.io/awesome-github-profiles/" target="_blank" rel="noopener noreferrer">
-    <img src="https://forthebadge.com/images/badges/check-it-out.svg" alt="check it out badge" />
- </a>
-  <a href="https://github.com/EddieHubCommunity" target="_blank" rel="noopener noreferrer">
-    <img src="https://forthebadge.com/images/badges/built-by-developers.svg" alt="built by developers badge" />
- </a>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
 </p>
 
-## How can I add my GitHub profile? 🤷‍♀️🤷‍♂️
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
 
-1. Create an [issue](https://github.com/EddieHubCommunity/awesome-github-profiles/issues), with the title as your name, and in the description put a screenshot of the customised GitHub profile page (copy the generated image URL, this will be needed in the next step)
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=programmerhelloworld&show_icons=true&locale=en&layout=compact" alt="programmerhelloworld" /></p>
 
-2. Fork the project, using the top right corner button, that states `fork`
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=programmerhelloworld&show_icons=true&locale=en" alt="programmerhelloworld" /></p>
 
-3. Create a file named `your-username.json` in the directory [`profiles`](/profiles) with the following content.
-
-> <span style="color: #606c71">Your entry should be similar to this example:</span>
-
-```json
-{
-  "image": "https://user-images.githubusercontent.com/624760/91057573-48531300-e61f-11ea-9e13-2d7384e42000.png",
-  "issueId": 66,
-  "name": "Eddie Jaoude",
-  "username": "eddiejaoude"
-}
-```
-
-4. Create a [Pull Request](https://github.com/EddieHubCommunity/awesome-github-profiles/pulls) to add the changes to this repository. Please change the title to `fix: add <your-username>` and in the description add `resolve #issueNumber`
-
-## Check out our awesome profiles [here](https://eddiehubcommunity.github.io/awesome-github-profiles/)
-
-### Any questions, feel free to let us know!
-
-**Join the conversation on our [Discord community](http://discord.eddiehub.org)!**
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=programmerhelloworld&" alt="programmerhelloworld" /></p>
